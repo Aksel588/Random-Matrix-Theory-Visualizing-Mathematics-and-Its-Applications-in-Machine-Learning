@@ -1,8 +1,12 @@
 # Random Matrix Theory: Visualizing Mathematics and Its Applications in Machine Learning
 
-**Image by Aksel Aghajanyan**
+![Image by Aksel Aghajanyan](images/Image%20by%20Aksel%20Aghajanyan.webp)
+
+*Image by Aksel Aghajanyan*
 
 **Aksel Aghajanyan** · 9 min read · Mar 3, 2026
+
+*Originally published on [Medium](https://medium.com/frontiers-of-data-science/random-matrix-theory-visualizing-mathematics-and-its-applications-in-machine-learning-45aaf14fe829)*
 
 ---
 
@@ -98,6 +102,6 @@ Thank you for reading. You are welcome to leave a comment if you have any though
 ---
 
 **About the author:**  
-**Aksel Aghajanyan** — AI Research Student | Backend Developer | Founder of Aqwel AI | Developing Aion (Open Research Toolkit) | Focused on Mathematics & Intelligent Systems
+**[Aksel Aghajanyan](https://www.linkedin.com/in/aksel-aghajanyan/)** — AI Research Student | Backend Developer | Founder of Aqwel AI | Developing Aion (Open Research Toolkit) | Focused on Mathematics & Intelligent Systems
 
-*Machine Learning · Mathematics · Artificial Intelligence · Data Science · Theory*
+*[Read on Medium](https://medium.com/frontiers-of-data-science/random-matrix-theory-visualizing-mathematics-and-its-applications-in-machine-learning-45aaf14fe829)* · *Machine Learning · Mathematics · Artificial Intelligence · Data Science · Theory*
